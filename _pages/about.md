@@ -19,6 +19,6 @@ Academic Background
 
 Honors and Awards
 ------
-- Meiye Foundation Scholarship (Only 10 people receive this scholarship each year) (Nov. 2023)
+- Meiye Foundation Scholarship (only 10 people receive each year) (Nov. 2023)
 - Outstanding Graduate (Jun. 2025)
 - Outstanding Graduation Project (May. 2025)
