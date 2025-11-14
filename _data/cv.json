@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Huang Xinyu",
+    "email": "huangxinyu2024@126.com",
+    "phone": "+852 8496 1795",
+    "website": "https://fugitive-unik.github.io/",
+    "summary": "Currently study in CUHK. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hong Kong, China",
+      "countryCode": "Hong Kong, China",
       "region": ""
     },
     "profiles": [
