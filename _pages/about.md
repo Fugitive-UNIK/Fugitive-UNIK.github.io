@@ -1,3 +1,5 @@
+Xinyu Huang’s Homepage
+---
 ---
 permalink: /
 title: "About me"
@@ -18,6 +20,6 @@ Academic Background
 
 Honors and Awards
 ======
-- Meiye Foundation Scholarship (1/3100) (Nov. 2023)
-- Outstanding Graduate (Jun. 2025)
-- Outstanding Graduation Project (May. 2025)
+- _Meiye Foundation Scholarship_(1/3100), NEU(Nov. 2023)
+- _Outstanding Graduate_, NEU(Jun. 2025)
+- _Outstanding Graduation Project_, NEU(May. 2025)
