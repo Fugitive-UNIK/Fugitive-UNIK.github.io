@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research Experience"
-permalink: /research/
+title: "Competition Experiences"
+permalink: /competition/
 author_profile: true
 redirect_from:
   - /resume
