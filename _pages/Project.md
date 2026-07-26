@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Project Experience"
+title: "Project Experiences"
 permalink: /Project/
 author_profile: true
 redirect_from:
@@ -19,5 +19,4 @@ A SQL-Based Hybrid Database-Driven Framework for Customer Satisfaction Predictio
 Horse Racing Prediction Based on PPCA and GLM
 ------
 * We cleaned and reconstructed the original 53-dimensional features, implementing a track-specific partitioning strategy (HV/AVT/ST) to eliminate venue heterogeneity. We designed a dynamic normalization algorithm based on in-track race data, ensuring the input data for the model is independently and identically distributed while preserving horses' relative competitive states, thereby preventing data leakage risks
-
 * To address the cold-start challenge caused by complete absence of historical features for new horses, we employed a probabilistic generative framework using PPCA (Probabilistic Principal Component Analysis), leveraging the EM algorithm to infer high-dimensional latent variables from known information (e.g., jockey, starting position), enabling unbiased dimensionality reduction. Given the evident nested structure of horse racing data, we constructed a GLMM (Generalized Linear Mixed Model) to separate systematic biases arising from weather or track conditions on specific race days from the horses’ intrinsic performance levels, resolving the violation of residual independence assumptions in traditional regression models and providing robust decision support for predicting race winners
