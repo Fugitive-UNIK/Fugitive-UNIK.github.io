@@ -13,7 +13,7 @@ I'm a graduate student from [Advanced Studies in Statistics and Data Science](ht
 You can find my CV here: [English Version](../assets/XinyuHuang_CUHK_ASDS.pdf) or [Chinese Version](../assets/黄欣雨_香港中文大学_统计与数据科学.pdf).
 
 Academic Background
-------
+======
 - M.Sc. in Advanced Studies in Statistics and Data Science, CUHK
 - B.Sc. in Appleid Statistics, School of Mathematics and Statistics, NEU
 
