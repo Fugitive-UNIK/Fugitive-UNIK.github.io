@@ -12,7 +12,7 @@ redirect_from:
 2024 Mathematical Contest in Modeling 
 ------
 ___Award__: Meritorious Winner(First Prize)_
-* Explored the impact of lamprey sex ratio changes on the ecosystem using an ABM model based on LogisticsVerhulst equations. Analysed the strengths and weaknesses of the lamprey population through an EWM model
+* Explored the impact of lamprey sex ratio changes on the ecosystem using an ABM model based on Logistics-Verhulst equations. Analysed the strengths and weaknesses of the lamprey population through an EWM model
 * Constructed a food web ecosystem model to identify five indicators affecting ecosystem stability
 * Simulated changes in sex ratios using differential equations based on the Lotka-Volterra multi-species host-parasite model, identifying stable solutions and demonstrating the role of sex ratio changes in maintaining food chain balance and resource stability
 * Validated model simulations using biological data from Hammond Bay Biological Station’s artificial streams, explaining the robustness of the model to various parameters and summarising its advantages and limitations
