@@ -11,7 +11,7 @@ redirect_from:
 I'm a graduate student from [Advanced Studies in Statistics and Data Science](https://asds.cuhk.edu.hk/) in the [Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). I love using statistics to tackle challenging data analysis problems, and I believe that statistics is a philosophy about uncertainty, which requires peeling back the veil of uncertainty step by step to explore the truth behind the data.
 My research interest focus on machine learning, time series analysis and fractional-order grey system. 
 You can find my CV here:
-- [English Version](../assets/Xinyu Huang_ CUHK_Statistics and Data Science.pdf)
+- [English Version](../assets/XinyuHuang_ CUHK_ASDS.pdf)
 - [Chinese Version](../assets/黄欣雨_香港中文大学_统计与数据科学.pdf)
 
 Academic Background
