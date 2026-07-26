@@ -14,8 +14,8 @@ You can find my CV here: [English Version](../assets/XinyuHuang_CUHK_ASDS.pdf) o
 
 Academic Background
 ------
-- M.Sc. in Advanced Studies in Statistics and Data Science, Sept. 2025 - Nov. 2026,CUHK (Supervisor: [Prof. Yuanyuan Lin](https://ylin-stat.github.io/))
-- B.Sc. in Appleid Statistics, School of Mathematics and Statistics, Sept. 2021 - Jul. 2025, NEU (Supervisor: Prof. Yao Lu)
+- Sept. 2025 - Nov. 2026: M.Sc. in Advanced Studies in Statistics and Data Science, CUHK (Supervisor: [Prof. Yuanyuan Lin](https://ylin-stat.github.io/))
+-  Sept. 2021 - Jul. 2025: B.Sc. in Appleid Statistics, School of Mathematics and Statistics, NEU (Supervisor: Prof. Yao Lu)
 
 Honors and Awards
 ------
