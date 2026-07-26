@@ -19,6 +19,6 @@ Academic Background
 
 Honors and Awards
 ------
-- _Meiye Foundation Scholarship(1/3100)_, NEU(Nov. 2023)
+- _Meiye Foundation Scholarship (1/3100)_, NEU(Nov. 2023)
 - _Outstanding Graduate_, NEU(Jun. 2025)
 - _Outstanding Graduation Project_, NEU(May 2025)
