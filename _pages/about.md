@@ -21,4 +21,4 @@ Honors and Awards
 ======
 - _Meiye Foundation Scholarship_(1/3100), NEU(Nov. 2023)
 - _Outstanding Graduate_, NEU(Jun. 2025)
-- _Outstanding Graduation Project_, NEU(May. 2025)
+- _Outstanding Graduation Project_, NEU(May 2025)
