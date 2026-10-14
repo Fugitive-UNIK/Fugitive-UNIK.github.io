@@ -19,7 +19,7 @@ Academic Background
 - Sept. 2025 - Nov. 2026: M.Sc. in Advanced Studies in Statistics and Data Science, CUHK (Supervisor: [Prof. Yuanyuan Lin](https://ylin-stat.github.io/))
 - 2025年9月 - 2026年11月：香港中文大学统计与数据科学研习理学硕士（导师：[林媛媛教授](https://ylin-stat.github.io/)）  
 -  Sept. 2021 - Jul. 2025: B.Sc. in Appleid Statistics, School of Mathematics and Statistics, NEU (Supervisor: Prof. Yao Lu)
--  2021年9月 - 2025年7月：新英格兰大学数学与统计学院苹果ID统计学学士（导师：陆瑶教授）
+-  2021年9月 - 2025年7月：东北大学数学与统计学院应用统计学学士（导师：陆瑶教授）
 
 Honors and Awards
 ------
