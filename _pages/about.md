@@ -33,6 +33,6 @@ Honors and Awards / 荣誉和奖项
 - 2024 Mathematical Contest in Modeling / 2024美国大学生数学建模竞赛
   Award: _Meritorious Winner / 一等奖_
 - 2023 Mathematical Contest in Modeling / 2023美国大学生数学建模竞赛
-  Award: _Honorable Mention / 二等奖_
+- Award: _Honorable Mention / 二等奖_
 - 2023 Asia and Pacific Mathematical Contest in Modeling / 2023亚太地区数学建模竞赛
   Award: _Second Prize / 二等奖_
