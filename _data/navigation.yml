@@ -8,13 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Project"
+  - title: "Project / 项目"
     url: /Project/
 
-  - title: "Research"
+  - title: "Research / 科研"
     url: /research/    
 
-  - title: "Competition"
+  - title: "Competition / 竞赛"
     url: /competition/    
     
   # - title: "Portfolio"
