@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-电商用户满意度预测与运营策略分析
+A SQL-Based Hybrid Database-Driven Framework for Customer Satisfaction Prediction with Machine Learning and Natural Language Processing -Enhanced Sentiment Analysis
 ------
 * Using SQL, reverse engineering and reengineering were conducted on 8 core tables of the e-commerce database. An ER diagram was designed and the data of orders, payments, logistics and comments were integrated to build a unified analysis view. Missing value processing, abnormal order elimination and feature derivation based on business logic (such as freight efficiency ratio and product volume) were completed to construct a high-quality modeling dataset
 * A prediction pipeline was built and three models, Ridge Regression, RF and XGBoost, were compared. Feature importance analysis and screening were carried out through SHAP values and mutual information method, and the Random Forest model performed the best, accurately quantifying the nonlinear impact mechanism of logistics timeliness and payment amount on user ratings
 * A complete NLP process was implemented, including Portuguese text cleaning (noise removal, stem extraction), stop word filtering and TF-IDF vectorization. MultinomialNB, Logistic Regression and RF were compared, and Logistic Regression was finally selected for deployment because it maintained a high accuracy rate (89.28%) while having excellent model interpretability
 * Combining the RFM model and EDA analysis, the risks of low user retention rate, uneven regional development and excessive reliance on credit card payments on the platform were revealed. Data-driven operation strategies such as "delayed compensation for high-value orders", "control of freight ratio threshold" and "awakening of dormant users" were proposed to guide business to optimize user experience
 
-基于SQL的混合数据库驱动框架：结合机器学习与自然语言处理实现客户满意度预测——增强情感分析
+电商用户满意度预测与运营策略分析
 ------
 * 使用SQL对电子商务数据库的8个核心表进行了逆向工程和重构，设计了实体关系图（ER图），并将订单、支付、物流和评论数据整合，构建统一的分析视图。完成了缺失值处理、异常订单剔除以及基于业务逻辑的特征衍生（如货运效率比和产品销量），从而构建出高质量的建模数据集  
 * 构建了预测流水线，并对岭回归（Ridge Regression）、随机森林（RF）和XGBoost三种模型进行了比较。通过SHAP值和互信息方法对特征重要性进行分析与筛选，结果表明随机森林模型表现最优，能够准确量化物流时效性和付款金额对用户评分的非线性影响机制。 
